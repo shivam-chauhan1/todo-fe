@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/:path*",
+        "destination": "https://backend-xatd.onrender.com/api/:path*"
+      }
+    ]
+  }
